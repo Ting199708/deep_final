@@ -1,4 +1,5 @@
 Resize project
+(Open Source: https://github.com/Xilinx/PYNQ_Workshop/blob/master/Session_4/7_resize.ipynb)
 
 1.將resize.bit與.tcl與python code放同一個目錄
 
